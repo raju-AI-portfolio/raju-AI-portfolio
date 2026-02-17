@@ -68,6 +68,7 @@ Agile | Program Governance | KPI Dashboards
 ## 📫 Connect With Me
 
 LinkedIn: linkedin.com/in/programdirectorai  
+email: rajucanon@yahoo.com
 Location: Hyderabad, India  
 
 ---
