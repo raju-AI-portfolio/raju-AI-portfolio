@@ -26,8 +26,6 @@ o	AI powered Customer Querry response chatbot using RAG
 o	AI powered customer product review sentiment analyser using LLM 
 o	Diabetic Diet & Habit Planner using no-code Generative AI application using AWS Party Rock
 o	Prepared ROI for Clinical Adverse Event Classifier AI solution
-<img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/1d3341ff-af9b-4cb6-8510-76adc9c5bd62" />
-
 
 ---
 
