@@ -50,7 +50,7 @@ My focus is on delivering AI solutions that move from experimentation to enterpr
 
 Python | OpenAI | HuggingFace | LLMs | RAG | NLP  
 Azure AI | Cloud-Ready Architectures  
-Jira | Confluence | Tableau | SAP  
+MSP | Jira | Tableau | SAP  
 Agile | Program Governance | KPI Dashboards  
 
 ---
