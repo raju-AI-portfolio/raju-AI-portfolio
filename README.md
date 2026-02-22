@@ -21,14 +21,13 @@ I design and lead AI-driven innovation programs across regulated pharmaceutical 
 
 ## 🔬 Featured AI Projects
 
-🔹 **Medical Q&A System (model fine tuning)**  
-Context-aware medical assistant with explainable outputs and governance-ready logging.
+o	Lightweight Medical Q&A assistant built by fine-tuning MiniLM on curated MedQuAD dataset with AutoTrain
+o	AI powered Customer Querry response chatbot using RAG
+o	AI powered customer product review sentiment analyser using LLM 
+o	Diabetic Diet & Habit Planner using no-code Generative AI application using AWS Party Rock
+o	Prepared ROI for Clinical Adverse Event Classifier AI solution
+<img width="468" height="128" alt="image" src="https://github.com/user-attachments/assets/1d3341ff-af9b-4cb6-8510-76adc9c5bd62" />
 
-🔹 **Clinical Adverse Event Classifier (NLP/ML)**  
-Automated safety signal classification to improve pharmacovigilance efficiency.
-
-🔹 **Pharma AI Governance Framework**  
-Structured model lifecycle management including validation, auditability, and risk tracking.
 
 ---
 
