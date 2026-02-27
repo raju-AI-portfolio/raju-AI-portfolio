@@ -21,14 +21,14 @@ I design and lead AI-driven innovation programs across regulated pharmaceutical 
 
 ## 🔬 Featured AI Projects
 
-- 🩺 Lightweight Medical Q&A Assistant fine-tuned on MiniLM using curated MedQuAD dataset via AutoTrain  
+- 🩺 Medical Q&A Assistant fine-tuned on MiniLM using curated MedQuAD dataset via AutoTrain
+- 📊 AI-powred and validated RAG system that answers employee questions about regulations (GDPR, HIPAA, SOX, etc.) with exact source citations
+- 💰 business case and ROI model for AI-driven Clinical Trial Automated Adverse Event classification solution 
+- 🥗 Diabetic Diet & Habit Planner built as a No-Code Generative AI App using AWS PartyRock  
 - 🤖 AI-Powered Customer Query Response Chatbot using RAG architecture  
 - 📊 AI-Driven Customer Product Review Sentiment Analyzer using LLMs  
-- 🥗 Diabetic Diet & Habit Planner built as a No-Code Generative AI App using AWS PartyRock  
-- 💰 Strategic ROI Model Developed for Clinical Trial Adverse Event Classifier AI Solution  
-
+  
 ---
-
 ## 🏗 My Approach to AI Delivery
 
 I believe AI success requires more than models. It requires:
