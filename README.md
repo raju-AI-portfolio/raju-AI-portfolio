@@ -23,7 +23,8 @@ I design and lead AI-driven innovation programs across regulated pharmaceutical 
 
 - 🩺 Medical Q&A Assistant fine-tuned on MiniLM using curated MedQuAD dataset via AutoTrain
 - 📊 Regulatory Compliance Q&A system (a validated RAG system that answers employee questions about regulations (GDPR, HIPAA, SOX, etc.)
-- 💰 business case and ROI model for AI-driven Clinical Trial Automated Adverse Event classification solution 
+- 💰 business case and ROI model for AI-driven Clinical Trial Automated Adverse Event classification solution
+- 🤖 Multi-Agent-AI-System
 - 🥗 Diabetic Diet & Habit Planner built as a No-Code Generative AI App using AWS PartyRock  
 - 🤖 AI-Powered Customer Query Response Chatbot using RAG architecture  
 - 📊 AI-Driven Customer Product Review Sentiment Analyzer using LLMs  
