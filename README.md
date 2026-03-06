@@ -2,9 +2,14 @@
 
 # 👋 Hi, I'm Raju Kumar
 
-AI/ML Program Leader | Generative AI | Pharma Digital Transformation | PMP  
+AI Product Leader | Enterprise AI Transformation | PMP
 
-I design and lead AI-driven innovation programs across regulated pharmaceutical environments, bridging business strategy, data science, and technology execution.
+Specializing in Generative AI platforms, Pharma and Healthcare AI systems,
+and enterprise AI governance frameworks.
+
+Experienced in designing AI products that improve operational
+efficiency, regulatory compliance, and decision intelligence
+for global enterprises.
 
 ---
 
