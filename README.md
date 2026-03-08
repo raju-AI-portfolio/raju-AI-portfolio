@@ -4,21 +4,23 @@
 
 AI Product Leader | Enterprise AI Transformation | PMP
 
-Specializing in Generative AI platforms, Pharma and Healthcare AI systems,
-and enterprise AI governance frameworks.
+AI Product Leader specializing in enterprise AI platforms,
+Generative AI strategy, and AI governance frameworks.
 
 Experienced in designing AI products that improve operational
 efficiency, regulatory compliance, and decision intelligence
 for global enterprises.
 
+
 ---
 
 ## 🧠 What I Focus On
 
-- AI/ML Innovation Lab Programs
-- Generative AI & Agentic AI Solutions
-- LLMs & Retrieval-Augmented Generation (RAG)
-- AI Governance & Compliance in Regulated Industries
+- Enterprise GenAI Platforms
+- AI Product Strategy & Roadmaps
+- Healthcare & Manufacturing AI
+- AI Governance & Responsible AI
+- Multi-Agent AI SystemsAI/ML Innovation Lab Programs
 - PoC → Pilot → MVP Lifecycle Execution
 - Cross-functional Agile Program Leadership
 
