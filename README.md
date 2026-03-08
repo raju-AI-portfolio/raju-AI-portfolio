@@ -54,7 +54,8 @@ My focus is on delivering AI solutions that move from experimentation to enterpr
 ## ⚙️ Tech & Tools
 
 Python | OpenAI | HuggingFace | LLMs | RAG | NLP  
-Azure AI | Cloud-Ready Architectures | Lang grapg
+Azure AI | Cloud-Ready Architectures | Lang graph | Lang Chain | ML FLow | Airflow
+
 MSP | Jira | Tableau | SAP  
 Agile | Program Governance | KPI Dashboards  
 
