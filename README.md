@@ -79,4 +79,4 @@ Location: Hyderabad, India
 
 ---
 
-⭐ Exploring how AI can responsibly transform life sciences.
+⭐ Please explore my **Enterprise AI Atrategy Playbook** -  https://github.com/raju-AI-portfolio/Enterprise-AI-Strategy-Playbook.git
