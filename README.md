@@ -29,7 +29,7 @@ for global enterprises.
 ## 🔬 Featured AI Projects
 
 - 🩺 Medical Q&A Assistant fine-tuned on MiniLM using curated MedQuAD dataset via AutoTrain
-- 📊 Regulatory Compliance Q&A system (a RAG system that answers employee questions about regulations like GDPR, HIPAA etc.)
+- 📊 AI Powered Airline Customer support System using LLM, RAG, SQL and Quardrails
 - 💰 business case and ROI model for AI-driven Clinical Trial Automated Adverse Event classification solution
 - 🤖 Multi-Agent-AI-System
 - 🥗 Diabetic Diet & Habit Planner built as a No-Code Generative AI App using AWS PartyRock  
