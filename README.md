@@ -62,7 +62,8 @@ Agile | Program Governance | KPI Dashboards
 ---
 
 ## 📊 Background
-
+- MBA from IIT-R (Indian Institute of technology - Roorkee)
+- B.Tech in Electronics & Communication from cusat (Cochin University of Science and Technology)
 - 14+ years in enterprise transformation and program management 
 - AI & Digital programs  
 - Strategy deployment across Europe
