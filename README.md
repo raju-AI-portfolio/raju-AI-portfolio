@@ -40,6 +40,42 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 
 ### 🟢 Production-Grade AI Systems
 
+### 🔵 Life Sciences & Healthcare AI 
+#### [`Regulatory-Compliance-Intelligence-Copilot-with-Human-Review`](https://github.com/raju-AI-portfolio/Regulatory-Compliance-Intelligence-Copilot-with-Human-Review) ⭐
+> **AI-powered RAG chatbot** for healthcare regulatory compliance — HIPAA · GDPR · NIST SP 800-53
+- Answers compliance questions with **exact source citations** and human-review-in-the-loop
+- Deployed live on **HuggingFace Spaces**, orchestrated via n8n
+- **Stack:** Python · RAG · Pineconevector · n8n · Regulatory corpus . Validation Suite: llm as judge, Ragas, Langfuse 
+
+**Business Impact:**
+Simulates consulting advisory for GDPR/HIPAA
+Reduces manual compliance analysis effort
+Enables decision-ready outputs for stakeholders
+
+---
+
+#### [`Clinical-Trial-Adverse-Event-Classifier`](https://github.com/raju-AI-portfolio/Clinical-Trial-Adverse-Event-Classifier)
+> **AI-driven Adverse Event classification** for clinical trial safety data processing
+- Business case & ROI model for reducing manual workload in pharmacovigilance workflows
+- Demonstrates deep clinical operations expertise fused with applied ML
+- **Stack:** Python · NLP · Classification · Clinical data
+
+---
+
+#### [`medical-qa-assistant-minilm`](https://github.com/raju-AI-portfolio/medical-qa-assistant-minilm)
+> **Fine-tuned Medical Q&A Assistant** built on MiniLM + MedQuAD dataset via AutoTrain
+- Lightweight, domain-adapted LLM for clinical question answering
+- Showcases fine-tuning methodology on domain-specific biomedical data
+- **Stack:** Python · HuggingFace AutoTrain · MiniLM · MedQuAD
+
+---
+
+#### [`Digital-Track-and-Trace-System`](https://github.com/raju-AI-portfolio/Digital-Track-and-Trace-System)
+> **L1–L5 Pharma Serialization Integration** model for GS1 EPCIS standards
+- Connects packaging lines, ERP systems, and EMVO under global track-and-trace compliance
+- Demonstrates Life Sciences supply chain + regulatory technology depth
+- **Stack:** GS1 EPCIS · EMVO · Serialization standards
+
 #### [`customer-support-agent`](https://github.com/raju-AI-portfolio/customer-support-agent)
 > **Production-ready multi-agent AI system** for e-commerce customer service automation
 - Automates product recommendations, order management, and support ticket resolution
@@ -69,39 +105,6 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 - Captures queries via Telegram, retrieves relevant product docs via **Pinecone vector search**, generates grounded responses
 - **Stack:** n8n · RAG · Pinecone · GPT · Telegram API
 
----
-
-### 🔵 Life Sciences & Healthcare AI *(Domain Differentiator)*
-
-#### [`Regulatory-Compliance-Intelligence-Copilot-with-Human-Review`](https://github.com/raju-AI-portfolio/Regulatory-Compliance-Intelligence-Copilot-with-Human-Review) ⭐
-> **AI-powered RAG chatbot** for healthcare regulatory compliance — HIPAA · GDPR · NIST SP 800-53
-- Answers compliance questions with **exact source citations** and human-review-in-the-loop
-- Deployed live on **HuggingFace Spaces**, orchestrated via n8n
-- **Stack:** Python · RAG · HuggingFace · n8n · Regulatory corpus
-
----
-
-#### [`Clinical-Trial-Adverse-Event-Classifier`](https://github.com/raju-AI-portfolio/Clinical-Trial-Adverse-Event-Classifier)
-> **AI-driven Adverse Event classification** for clinical trial safety data processing
-- Business case & ROI model for reducing manual workload in pharmacovigilance workflows
-- Demonstrates deep clinical operations expertise fused with applied ML
-- **Stack:** Python · NLP · Classification · Clinical data
-
----
-
-#### [`medical-qa-assistant-minilm`](https://github.com/raju-AI-portfolio/medical-qa-assistant-minilm)
-> **Fine-tuned Medical Q&A Assistant** built on MiniLM + MedQuAD dataset via AutoTrain
-- Lightweight, domain-adapted LLM for clinical question answering
-- Showcases fine-tuning methodology on domain-specific biomedical data
-- **Stack:** Python · HuggingFace AutoTrain · MiniLM · MedQuAD
-
----
-
-#### [`Digital-Track-and-Trace-System`](https://github.com/raju-AI-portfolio/Digital-Track-and-Trace-System)
-> **L1–L5 Pharma Serialization Integration** model for GS1 EPCIS standards
-- Connects packaging lines, ERP systems, and EMVO under global track-and-trace compliance
-- Demonstrates Life Sciences supply chain + regulatory technology depth
-- **Stack:** GS1 EPCIS · EMVO · Serialization standards
 
 ---
 
