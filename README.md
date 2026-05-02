@@ -11,11 +11,15 @@
 
 ## 🧭 About Me
 
-I am an **AI Product Leader and GenAI Engineer** with **14 years of Program Management experience in Life Sciences** (pharma, clinical trials, regulatory compliance) and **3 years of hands-on expertise** building production-grade **Generative AI and Agentic AI systems**.
+I am a Healthcare Strategy and Transformation leader with 14+ years of experience across Life Sciences, specializing in go-to-market strategy, regulatory programs, and large-scale digital transformation.
 
-I sit at a rare intersection: **deep domain authority in Life Sciences + full-stack AI engineering capability**. I design and ship AI systems that are not just technically sound but compliant, explainable, and enterprise-ready — spanning RAG pipelines, multi-agent orchestration, LLM fine-tuning, and no-code AI workflow automation.
+Over the last few years, I have extended my expertise into AI-led transformation by designing and building end-to-end Generative AI systems that solve real healthcare and compliance challenges.
 
-> *"I don't just build AI demos. I architect production-grade AI solutions that solve real business and compliance challenges."*
+My work focuses on translating business problems into implementable AI-driven solutions — including regulatory compliance advisory systems, clinical knowledge assistants, and AI-driven decision-support tools.
+
+What differentiates me is the ability to bridge strategy, domain expertise, and hands-on AI implementation — enabling me to not only define transformation roadmaps but also demonstrate how these solutions work in practice.
+
+I bring a consulting-style mindset with execution depth, combining healthcare strategy, financial modelling, and emerging technology to drive measurable outcomes.
 
 ---
 
