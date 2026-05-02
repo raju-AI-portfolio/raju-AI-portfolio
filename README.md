@@ -48,9 +48,9 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 - **Stack:** Python · RAG · Pineconevector · n8n · Regulatory corpus . Validation Suite: llm as judge, Ragas, Langfuse 
 
 **Business Impact:**
-Simulates consulting advisory for GDPR/HIPAA
-Reduces manual compliance analysis effort
-Enables decision-ready outputs for stakeholders
+- Simulates consulting advisory for GDPR/HIPAA
+- Reduces manual compliance analysis effort
+- Enables decision-ready outputs for stakeholders
 
 ---
 
