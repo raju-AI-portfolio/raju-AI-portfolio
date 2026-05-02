@@ -41,7 +41,7 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 ### 🟢 Production-Grade AI Systems
 
 ### 🔵 Life Sciences & Healthcare AI 
-#### [`Regulatory-Compliance-Intelligence-Copilot-with-Human-Review`](https://github.com/raju-AI-portfolio/Regulatory-Compliance-Intelligence-Copilot-with-Human-Review) ⭐
+#### [`Regulatory-Compliance-Intelligence-Copilot-with-Human-Review`](https://github.com/raju-AI-portfolio/Regulatory-Compliance-Intelligence-Copilot-with-Human-Review-.git) ⭐
 > **AI-powered RAG chatbot** for healthcare regulatory compliance — HIPAA · GDPR · NIST SP 800-53
 - Answers compliance questions with **exact source citations** and human-review-in-the-loop
 - Deployed live on **HuggingFace Spaces**, orchestrated via n8n
