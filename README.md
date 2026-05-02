@@ -89,45 +89,20 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 
 ---
 
-#### [`Digital-Track-and-Trace-System`](https://github.com/raju-AI-portfolio/Digital-Track-and-Trace-System)
-> **L1–L5 Pharma Serialization Integration** model for GS1 EPCIS standards
-- Connects packaging lines, ERP systems, and EMVO under global track-and-trace compliance
-- Demonstrates Life Sciences supply chain + regulatory technology depth
-- **Stack:** GS1 EPCIS · EMVO · Serialization standards
+### 🟡 Agentic AI & Workflow Automation
 
 #### [`customer-support-agent`](https://github.com/raju-AI-portfolio/customer-support-agent)
 > **Production-ready multi-agent AI system** for e-commerce customer service automation
 - Automates product recommendations, order management, and support ticket resolution
 - Built with multi-agent architecture, safety guardrails, and human-in-the-loop escalation
 - **Stack:** Python · Multi-Agent LLM · Production-ready architecture
-
 ---
-
-#### [`AI-Powered-CRM-Feedback-Intelligence-Roadmap-Copilot`](https://github.com/raju-AI-portfolio/AI-Powered-CRM-Feedback-Intelligence-Roadmap-Copilot)
-> **End-to-end AI system** analyzing customer feedback to generate actionable product roadmap insights
-- Combines NLP, LLMs, and structured data processing to surface revenue-impacting signals from CRM data
-- Bridges raw customer voice → prioritized product decisions
-- **Stack:** Python · LLMs · NLP · Data pipelines
-
----
-
 #### [`airline-customer-support-system`](https://github.com/raju-AI-portfolio/airline-customer-support-system)
 > **Enterprise-grade AI support system** with LLMs, PostgreSQL, and n8n workflows
 - Implements safety guardrails to ensure accurate, grounded, and compliant customer interactions
 - Demonstrates responsible AI deployment in a regulated, customer-facing environment
 - **Stack:** Python · LLMs · PostgreSQL · n8n · Safety guardrails
-
 ---
-
-#### [`Customer-Query-Response-Automation-using-N8N-RAG-Based-Workflow`](https://github.com/raju-AI-portfolio/Customer-Query-Response-Automation-using-N8N-RAG-Based-Workflow)
-> **RAG-based automation pipeline** integrated with Telegram for real-time customer query resolution
-- Captures queries via Telegram, retrieves relevant product docs via **Pinecone vector search**, generates grounded responses
-- **Stack:** n8n · RAG · Pinecone · GPT · Telegram API
-
-
----
-
-### 🟡 Agentic AI & Workflow Automation
 
 #### [`Multi-Agent-AI-System`](https://github.com/raju-AI-portfolio/Multi-Agent-AI-System)
 > Design and implementation of a **Multi-Agent System** using n8n to automate real-world business tasks
@@ -141,6 +116,18 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 - Analyzes reviews, generates structured insights, logs to Google Sheets, sends real-time alerts
 - **Stack:** n8n · GPT-4 · Google Sheets API · Automation
 
+---
+#### [`AI-Powered-CRM-Feedback-Intelligence-Roadmap-Copilot`](https://github.com/raju-AI-portfolio/AI-Powered-CRM-Feedback-Intelligence-Roadmap-Copilot)
+> **End-to-end AI system** analyzing customer feedback to generate actionable product roadmap insights
+- Combines NLP, LLMs, and structured data processing to surface revenue-impacting signals from CRM data
+- Bridges raw customer voice → prioritized product decisions
+- **Stack:** Python · LLMs · NLP · Data pipelines
+
+---
+#### [`Customer-Query-Response-Automation-using-N8N-RAG-Based-Workflow`](https://github.com/raju-AI-portfolio/Customer-Query-Response-Automation-using-N8N-RAG-Based-Workflow)
+> **RAG-based automation pipeline** integrated with Telegram for real-time customer query resolution
+- Captures queries via Telegram, retrieves relevant product docs via **Pinecone vector search**, generates grounded responses
+- **Stack:** n8n · RAG · Pinecone · GPT · Telegram API
 ---
 
 ### 🟣 Strategy & Thought Leadership
