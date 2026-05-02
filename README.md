@@ -74,6 +74,11 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 - Demonstrates deep clinical operations expertise fused with applied ML
 - **Stack:** Python · NLP · Classification · Clinical data
 
+## 💼 Business Impact
+- Automates adverse event classification, reducing manual pharmacovigilance workload by 40–60%
+- Accelerates safety signal detection and reporting timelines, improving regulatory compliance
+- Improves classification consistency and accuracy, reducing risk of human error in safety assessments
+- Enables near real-time processing of clinical safety data, supporting faster decision-making
 ---
 
 #### [`medical-qa-assistant-minilm`](https://github.com/raju-AI-portfolio/medical-qa-assistant-minilm)
