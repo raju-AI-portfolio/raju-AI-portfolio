@@ -181,7 +181,7 @@ Program Mgmt      │ AI Strategy · Roadmapping · Stakeholder Management · PM
 Most AI engineers lack domain depth. Most Life Sciences leaders can't build AI systems. I do both.
 
 - ✅ **14 years** managing complex programs in regulated Life Sciences environments
-- ✅ **3 years** building and shipping GenAI + Agentic AI systems
+- ✅ **Hands-on** experience building multiple end-to-end AI systems
 - ✅ **Production deployments** — not just prototypes
 - ✅ **Compliance-first AI** — HIPAA, GDPR, NIST, GS1, EPCIS
 - ✅ **End-to-end ownership** — from strategy to deployment to LLM Ops
@@ -189,8 +189,6 @@ Most AI engineers lack domain depth. Most Life Sciences leaders can't build AI s
 ---
 
 ## 📫 Let's Connect
-
-Open to **Senior AI Engineer**, **AI Product Lead**, **AI Program Director**, and **AI Contract** opportunities.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/programdirectorai)
 - 📧 raj.doms@gmail.com
