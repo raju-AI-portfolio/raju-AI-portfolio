@@ -53,7 +53,12 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 - Enables decision-ready outputs for stakeholders
 
 ---
+#### [`Rituximab Patient Knowledge Assistant`](https://github.com/raju-AI-portfolio/rituximab-rag-assistant.git)
 
+
+
+
+---
 
 #### [`Clinical-Trial-Adverse-Event-Classifier`](https://github.com/raju-AI-portfolio/Clinical-Trial-Adverse-Event-Classifier)
 > **AI-driven Adverse Event classification** for clinical trial safety data processing
