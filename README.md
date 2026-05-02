@@ -54,8 +54,7 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 
 ---
 #### [`Rituximab Patient Knowledge Assistant`](https://github.com/raju-AI-portfolio/rituximab-rag-assistant.git)
-
-
+> **AI-powered clinical knowledge assistant** for Rituximab therapy built using Retrieval-Augmented Generation (RAG), enabling patients and stakeholders to access accurate, source-verified drug information from FDA, NIH, NCCN, and PubMed sources. Designed with safety guardrails, citation-backed responses, and 24/7 availability, the solution demonstrates how AI can enhance patient education, reduce healthcare provider workload, and improve treatment adherence. Simulates a real-world digital health transformation use case for pharma, providers, and patient support programs.
 
 
 ---
