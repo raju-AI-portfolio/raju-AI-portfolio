@@ -47,12 +47,13 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 - Deployed live on **HuggingFace Spaces**, orchestrated via n8n
 - **Stack:** Python · RAG · Pineconevector · n8n · Regulatory corpus . Validation Suite: llm as judge, Ragas, Langfuse 
 
-**Business Impact:**
+  ## 💼 Business Impact
 - Simulates consulting advisory for GDPR/HIPAA
 - Reduces manual compliance analysis effort
 - Enables decision-ready outputs for stakeholders
 
 ---
+
 
 #### [`Clinical-Trial-Adverse-Event-Classifier`](https://github.com/raju-AI-portfolio/Clinical-Trial-Adverse-Event-Classifier)
 > **AI-driven Adverse Event classification** for clinical trial safety data processing
