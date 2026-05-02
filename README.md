@@ -89,7 +89,7 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 
 ---
 
-### 🟡 Agentic AI & Workflow Automation
+### 🟡 Agentic AI & Workflow Automation Solutions
 
 #### [`customer-support-agent`](https://github.com/raju-AI-portfolio/customer-support-agent)
 > **Production-ready multi-agent AI system** for e-commerce customer service automation
