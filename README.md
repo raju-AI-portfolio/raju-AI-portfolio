@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Raju Kumar</h1>
-<h3 align="center">Healthcare Strategy Leader · AI Transformation & GenAI Systems · Life Sciences</h3>
+<h3 align="center">·Healthcare AI Strategist | GenAI & Agentic AI | Pharma & Life Sciences | Digital Transformation Leader<img width="468" height="43" alt="image" src="https://github.com/user-attachments/assets/ec12c1d3-a36c-4403-b24a-00a74ab0c223" />
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/programdirectorai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
