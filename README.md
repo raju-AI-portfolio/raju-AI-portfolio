@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Raju Kumar</h1>
-<h3 align="center">Healthcare Strategy Leader | GenAI & Agentic AI | Digital Transformation Leader <img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/322cf2db-437a-42bc-bcf1-c72ed19f033c" />
+<h3 align="center">Healthcare Strategy Leader | GenAI & Agentic AI | Digital Transformation Leader <img width="468" height="12" />
 </h3>
 
 <p align="center">
