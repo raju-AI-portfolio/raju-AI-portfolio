@@ -1,26 +1,29 @@
 <h1 align="center">👋 Hi, I'm Raju Kumar</h1>
-<h3 align="center">Healthcare Strategy Leader | GenAI & Agentic AI | Digital Transformation Leader <img width="468" height="12" />
+
+<h3 align="center">
+Healthcare AI Solutions Architect &nbsp;·&nbsp; GenAI & Agentic AI &nbsp;·&nbsp; Azure-Native RAG Systems &nbsp;·&nbsp; Life Sciences
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/programdirectorai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:raj.doms@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/programdirectorai">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rajucanon@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20To-Global%20Roles-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I am a Healthcare Strategy and Transformation leader with 14+ years of experience across Life Sciences, specializing in go-to-market strategy, regulatory programs, and large-scale digital transformation.
+Healthcare AI Solutions Architect with **14+ years** of deep pharmaceutical, biosimilar, and digital health expertise — hands-on builder of **production Azure-native RAG systems**, multi-agent GenAI pipelines, and enterprise AI solutions directly addressing pharma use cases.
 
-Over the last few years, I have extended my expertise into AI-led transformation by designing and building end-to-end Generative AI systems that solve real healthcare and compliance challenges.
+I bridge two worlds that rarely meet: **enterprise healthcare strategy** (regulatory programs, go-to-market, $250M+ compliance mandates) and **hands-on AI engineering** (Azure OpenAI, Azure AI Search, LangGraph, FastAPI, CI/CD). The result is AI architecture that is both technically sound and commercially viable in regulated pharma environments.
 
-My work focuses on translating business problems into implementable AI-driven solutions — including regulatory compliance advisory systems, clinical knowledge assistants, and AI-driven decision-support tools.
-
-What differentiates me is the ability to bridge strategy, domain expertise, and hands-on AI implementation — enabling me to not only define transformation roadmaps but also demonstrate how these solutions work in practice.
-
-I bring a consulting-style mindset with execution depth, combining healthcare strategy, financial modelling, and emerging technology to drive measurable outcomes.
+**What I build ships to production** — not just Jupyter notebooks.
 
 ---
 
@@ -28,165 +31,236 @@ I bring a consulting-style mindset with execution depth, combining healthcare st
 
 | Domain | Capability |
 |---|---|
-| 🤖 **Agentic AI** | Multi-agent systems using LangGraph, CrewAI, n8n orchestration |
-| 🔍 **RAG Systems** | Retrieval-Augmented Generation with Pinecone, ChromaDB, HuggingFace |
-| 🏥 **Life Sciences AI** | Clinical trial classifiers, regulatory compliance chatbots, medical QA |
-| 🏭 **Enterprise AI** | CRM intelligence, customer support automation, AI strategy playbooks |
-| 🔧 **LLM Engineering** | Fine-tuning, prompt engineering, structured outputs, LLM Ops |
-| ☁️ **Deployment** | HuggingFace Spaces, Streamlit, FastAPI, PostgreSQL, n8n |
+| ☁️ **Azure-Native AI** | Azure OpenAI · Azure AI Search · Azure App Service · Azure AI Foundry |
+| 🔍 **RAG Systems** | Vector retrieval · HNSW · Hybrid search · Pinecone · Azure AI Search |
+| 🤖 **Agentic AI** | Multi-agent orchestration · LangGraph · LangChain · n8n · guardrail pipelines |
+| 🏥 **Life Sciences AI** | Clinical knowledge assistants · pharmacovigilance · regulatory compliance AI |
+| 🔧 **LLM Engineering** | Prompt engineering · fine-tuning · LLM observability · Langfuse · RAGAS |
+| 🔄 **MLOps & CI/CD** | GitHub Actions · Azure DevOps · Gunicorn · production deployment pipelines |
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🟢 Production-Grade AI Systems
-
-### 🔵 Life Sciences & Healthcare AI 
-#### [`Regulatory-Compliance-Intelligence-Copilot-with-Human-Review`](https://github.com/raju-AI-portfolio/Regulatory-Compliance-Intelligence-Copilot-with-Human-Review-.git) ⭐
-> **AI-powered RAG chatbot** for healthcare regulatory compliance — HIPAA · GDPR · NIST SP 800-53
-- Answers compliance questions with **exact source citations** and human-review-in-the-loop
-- Deployed live on **HuggingFace Spaces**, orchestrated via n8n
-- **Stack:** Python · RAG · Pineconevector · n8n · Regulatory corpus . Validation Suite: llm as judge, Ragas, Langfuse 
-
-  ## 💼 Business Impact
-- Simulates consulting advisory for GDPR/HIPAA
-- Reduces manual compliance analysis effort
-- Enables decision-ready outputs for stakeholders
-
----
-#### [`Rituximab Patient Knowledge Assistant`](https://github.com/raju-AI-portfolio/rituximab-rag-assistant.git)
-> **AI-powered clinical knowledge assistant** for Rituximab therapy-Delivering source-verified drug information across oncology, rheumatology, and neurology to patients
-- Enabling patients and stakeholders to access accurate, source-verified drug information from FDA, NIH, NCCN, and PubMed sources.
-- Designed with safety guardrails, citation-backed responses, and 24/7 availability.
-- The solution demonstrates how AI can enhance patient education, reduce healthcare provider workload, and improve treatment adherence.
-- Simulates a real-world digital health transformation use case for pharma, providers, and patient support programs.
-
-## 💼 Business Impact
-- Reduces patient support burden by automating 30–50% of routine therapy-related queries, freeing up nursing and call-center capacity
-- Improves patient adherence and engagement by providing 24/7 access to accurate, easy-to-understand treatment information
-- Mitigates misinformation risk through source-verified responses grounded in FDA, NIH, and clinical guidelines
-- Enhances patient experience and satisfaction by delivering instant, reliable answers outside clinical hours
+### 🟢 Production — Live on Azure & Cloud
 
 ---
 
-#### [`Clinical-Trial-Adverse-Event-Classifier`](https://github.com/raju-AI-portfolio/Clinical-Trial-Adverse-Event-Classifier)
-> **AI-driven Adverse Event classification** for clinical trial safety data processing
-- Business case & ROI model for reducing manual workload in pharmacovigilance workflows
-- Demonstrates deep clinical operations expertise fused with applied ML
-- **Stack:** Python · NLP · Classification · Clinical data
+#### 🧬 [`Rituximab Patient Knowledge Assistant`](https://github.com/raju-AI-portfolio/rituximab-rag-assistant) &nbsp; ![Azure](https://img.shields.io/badge/Azure-Live-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-Live-28a745?style=flat-square)
 
-## 💼 Business Impact
-- Automates adverse event classification, reducing manual pharmacovigilance workload by 40–60%
-- Accelerates safety signal detection and reporting timelines, improving regulatory compliance
-- Improves classification consistency and accuracy, reducing risk of human error in safety assessments
-- Enables near real-time processing of clinical safety data, supporting faster decision-making
+> **Fully Azure-native RAG clinical knowledge assistant** for Rituximab therapy — deployed on Microsoft Azure enterprise cloud
+
+Azure-native RAG system delivering 24/7 source-verified Rituximab therapy information across oncology, rheumatology, and neurology — powered by Azure OpenAI GPT-4o, Azure AI Search (1,019 vectors, HNSW), and GitHub Actions CI/CD. Grounded exclusively in FDA, PubMed, NCCN, NIH, and ClinicalTrials.gov sources with mandatory medical disclaimers and source citations on every response.
+
+**Phase 2 Azure Stack:**
+
+| Component | Technology |
+|---|---|
+| Hosting | Azure App Service · Central India · Python 3.11 |
+| LLM | Azure OpenAI GPT-4o · 50,000 TPM |
+| Vector DB | Azure AI Search · HNSW · 1,019 vectors · 0.80+ score |
+| CI/CD | GitHub Actions · auto-deploy on push to main |
+| Web server | Gunicorn + UvicornWorker |
+
+**💼 Business Impact:**
+- Reduces patient support burden by automating 30–50% of routine therapy queries — freeing nursing and call-centre capacity
+- Improves treatment adherence through 24/7 access to accurate, source-verified drug information
+- Mitigates misinformation risk — every answer grounded in FDA/NIH/NCCN sources, never AI memory
+- Enterprise-grade compliance posture — HIPAA/GDPR-aligned Azure infrastructure
+
+`Azure OpenAI` `Azure AI Search` `FastAPI` `GitHub Actions` `Python 3.11` `RAG` `Healthcare AI`
+
 ---
 
-#### [`medical-qa-assistant-minilm`](https://github.com/raju-AI-portfolio/medical-qa-assistant-minilm)
-> **Fine-tuned Medical Q&A Assistant** built on MiniLM + MedQuAD dataset via AutoTrain
-- Lightweight, domain-adapted LLM for clinical question answering
-- Showcases fine-tuning methodology on domain-specific biomedical data
-- **Stack:** Python · HuggingFace AutoTrain · MiniLM · MedQuAD
+#### 🛡️ [`Regulatory Compliance Intelligence Copilot`](https://github.com/raju-AI-portfolio/Regulatory-Compliance-Intelligence-Copilot-with-Human-Review-.git) &nbsp; ⭐
+
+> **AI-powered RAG advisory system** for healthcare regulatory compliance — HIPAA · GDPR · NIST SP 800-53
+
+End-to-end compliance advisory system using RAG, Python, Streamlit, Pinecone, and n8n — enabling structured GDPR/HIPAA/NIST compliance query resolution with confidence scoring and human-in-the-loop approval workflows via Telegram and Airtable. Directly replicates the advisory output a strategy consultant would deliver to a payer or provider client.
+
+**💼 Business Impact:**
+- Simulates consulting-grade compliance advisory for GDPR/HIPAA/NIST environments
+- Reduces manual compliance analysis effort with confidence-scored, citation-backed outputs
+- Human-in-the-loop design ensures regulated decision-making standards are maintained
+
+`RAG` `Pinecone` `n8n` `Streamlit` `GDPR` `HIPAA` `NIST` `Langfuse` `RAGAS`
 
 ---
 
-### 🟡 Agentic AI & Workflow Automation Solutions
+#### 🤖 [`Production Multi-Agent AI System`](https://github.com/raju-AI-portfolio/Multi-Agent-AI-System)
 
-#### [`customer-support-agent`](https://github.com/raju-AI-portfolio/customer-support-agent)
+> **Production-ready multi-agent AI system** with 4 specialised agents, 3-stage guardrail pipeline, and Azure OpenAI GPT-4o
+
+Built with 4 specialised agents orchestrated via a custom routing layer — Intent Classifier, Knowledge Retrieval Agent, Compliance Guardrail Agent, and Response Synthesis Agent. Deployed on Azure with CI/CD from GitHub. Hybrid data architecture (Azure AI Search + Azure PostgreSQL + Azure Cache for Redis). Integrated Langfuse for LLM observability — achieving sub-5 second response times with 90%+ accuracy.
+
+**💼 Business Impact:**
+- Demonstrates enterprise-grade agentic AI architecture directly applicable to pharma copilot use cases
+- 3-stage guardrail pipeline maps to EU AI Act obligations for regulated AI systems
+- Langfuse observability provides production-grade monitoring and audit trail capability
+
+`LangGraph` `Azure OpenAI` `Multi-Agent` `Langfuse` `Azure AI Search` `Guardrails` `CI/CD`
+
+---
+
+### 🔵 Life Sciences & Healthcare AI
+
+---
+
+#### 🧪 [`Clinical Trial Adverse Event Classifier`](https://github.com/raju-AI-portfolio/Clinical-Trial-Adverse-Event-Classifier)
+
+> **AI-driven adverse event classification** for clinical trial safety data processing with board-ready ROI model
+
+Business case and ROI model for reducing manual workload in pharmacovigilance workflows. Quantifies efficiency gains, cost savings, and risk reduction to support executive investment decisions — mirrors the financial modelling deliverable central to health tech strategy consulting.
+
+**💼 Business Impact:**
+- Automates AE classification — reducing manual pharmacovigilance workload by 40–60%
+- Accelerates safety signal detection and regulatory reporting timelines
+- Improves MedDRA coding consistency, reducing human error in safety assessments
+
+`Python` `NLP` `Classification` `MedDRA` `Pharmacovigilance` `Clinical Data`
+
+---
+
+#### 🩺 [`Medical Q&A Assistant — MiniLM`](https://github.com/raju-AI-portfolio/medical-qa-assistant-minilm)
+
+> **Fine-tuned Medical Q&A Assistant** on MiniLM + MedQuAD dataset via HuggingFace AutoTrain
+
+Lightweight, domain-adapted LLM for clinical question answering. Showcases fine-tuning methodology on domain-specific biomedical data — demonstrating when fine-tuning is preferable to RAG for domain adaptation.
+
+`HuggingFace` `AutoTrain` `MiniLM` `MedQuAD` `Fine-tuning` `Biomedical NLP`
+
+---
+
+### 🟡 Agentic AI & Workflow Automation
+
+---
+
+#### 🛒 [`Customer Support Agent`](https://github.com/raju-AI-portfolio/customer-support-agent)
+
 > **Production-ready multi-agent AI system** for e-commerce customer service automation
-- Automates product recommendations, order management, and support ticket resolution
-- Built with multi-agent architecture, safety guardrails, and human-in-the-loop escalation
-- **Stack:** Python · Multi-Agent LLM · Production-ready architecture
----
-#### [`airline-customer-support-system`](https://github.com/raju-AI-portfolio/airline-customer-support-system)
-> **Enterprise-grade AI support system** with LLMs, PostgreSQL, and n8n workflows
-- Implements safety guardrails to ensure accurate, grounded, and compliant customer interactions
-- Demonstrates responsible AI deployment in a regulated, customer-facing environment
-- **Stack:** Python · LLMs · PostgreSQL · n8n · Safety guardrails
----
 
-#### [`Multi-Agent-AI-System`](https://github.com/raju-AI-portfolio/Multi-Agent-AI-System)
-> Design and implementation of a **Multi-Agent System** using n8n to automate real-world business tasks
-- Demonstrates agent orchestration patterns, task delegation, and workflow automation at scale
-- **Stack:** n8n · Multi-Agent LLM · Workflow orchestration
+Automates product recommendations, order management, and support ticket resolution with multi-agent architecture, safety guardrails, and human-in-the-loop escalation.
+
+`Python` `Multi-Agent LLM` `Safety Guardrails` `Human-in-the-loop`
 
 ---
 
-#### [`AI-Powered-Customer-Review`](https://github.com/raju-AI-portfolio/AI-Powered-Customer-Review)
-> **Automated n8n + GPT-4 pipeline** for product review intelligence
-- Analyzes reviews, generates structured insights, logs to Google Sheets, sends real-time alerts
-- **Stack:** n8n · GPT-4 · Google Sheets API · Automation
+#### ✈️ [`Airline Customer Support System`](https://github.com/raju-AI-portfolio/airline-customer-support-system)
+
+> **Enterprise-grade AI support system** with LLMs, PostgreSQL, and n8n workflows in a regulated customer-facing environment
+
+`Python` `LLMs` `PostgreSQL` `n8n` `Safety Guardrails`
 
 ---
-#### [`AI-Powered-CRM-Feedback-Intelligence-Roadmap-Copilot`](https://github.com/raju-AI-portfolio/AI-Powered-CRM-Feedback-Intelligence-Roadmap-Copilot)
-> **End-to-end AI system** analyzing customer feedback to generate actionable product roadmap insights
-- Combines NLP, LLMs, and structured data processing to surface revenue-impacting signals from CRM data
-- Bridges raw customer voice → prioritized product decisions
-- **Stack:** Python · LLMs · NLP · Data pipelines
+
+#### 📊 [`AI-Powered CRM Feedback Intelligence Copilot`](https://github.com/raju-AI-portfolio/AI-Powered-CRM-Feedback-Intelligence-Roadmap-Copilot)
+
+> **End-to-end AI system** analyzing CRM customer feedback to generate actionable product roadmap insights
+
+Bridges raw customer voice → prioritized product decisions using NLP, LLMs, and structured data processing to surface revenue-impacting signals.
+
+`Python` `LLMs` `NLP` `CRM` `Data Pipelines`
 
 ---
-#### [`Customer-Query-Response-Automation-using-N8N-RAG-Based-Workflow`](https://github.com/raju-AI-portfolio/Customer-Query-Response-Automation-using-N8N-RAG-Based-Workflow)
+
+#### 📱 [`Customer Query Automation — n8n RAG`](https://github.com/raju-AI-portfolio/Customer-Query-Response-Automation-using-N8N-RAG-Based-Workflow)
+
 > **RAG-based automation pipeline** integrated with Telegram for real-time customer query resolution
-- Captures queries via Telegram, retrieves relevant product docs via **Pinecone vector search**, generates grounded responses
-- **Stack:** n8n · RAG · Pinecone · GPT · Telegram API
+
+`n8n` `RAG` `Pinecone` `GPT` `Telegram API`
+
 ---
 
 ### 🟣 Strategy & Thought Leadership
 
-#### [`Enterprise-AI-Strategy-Playbook`](https://github.com/raju-AI-portfolio/Enterprise-AI-Strategy-Playbook) ⭐
-> **Comprehensive AI transformation guide** for enterprise-wide AI adoption
-- Covers end-to-end AI journey: opportunity identification → pilot → scale → governance
-- Demonstrates rare blend of **strategic PM thinking + AI execution expertise**
-- Ideal reference for CXOs, AI program leads, and delivery teams
+---
+
+#### 📘 [`Enterprise AI Strategy Playbook`](https://github.com/raju-AI-portfolio/Enterprise-AI-Strategy-Playbook) &nbsp; ⭐
+
+> **Comprehensive AI transformation guide** for enterprise-wide AI adoption in regulated industries
+
+End-to-end AI journey: opportunity identification → pilot → scale → governance. Demonstrates rare blend of strategic program management thinking and AI execution depth. Ideal reference for CXOs, AI program leads, and delivery teams in pharma and healthcare.
+
+`AI Strategy` `Enterprise Transformation` `Governance` `Healthcare` `Life Sciences`
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```
-LLMs & AI         │ OpenAI GPT-4/3.5 · Anthropic Claude · HuggingFace · MiniLM · AutoTrain
-RAG & Vector DBs  │ Pinecone · ChromaDB · LangChain · LlamaIndex
-Agentic AI        │ Multi-Agent systems · n8n · LangGraph · CrewAI
-Languages         │ Python · SQL
-Deployment        │ HuggingFace Spaces · Streamlit · FastAPI · PostgreSQL
-Domains           │ Life Sciences · Clinical Trials · Regulatory Compliance · Pharma · CRM
-Program Mgmt      │ AI Strategy · Roadmapping · Stakeholder Management · PMO · PMP Certified
+Cloud & AI Platforms  │ Microsoft Azure · Azure OpenAI · Azure AI Search · Azure App Service
+                      │ Azure AI Foundry · AWS Bedrock · GCP Vertex AI
+LLMs                  │ GPT-4o · GPT-4o-mini · Claude · Llama · MiniLM · HuggingFace
+RAG & Vector DBs      │ Azure AI Search (HNSW) · Pinecone Serverless · ChromaDB · LlamaIndex
+Agentic AI            │ LangGraph · LangChain · n8n · CrewAI · Multi-Agent Orchestration
+LLM Observability     │ Langfuse · RAGAS · LLM-as-Judge evaluation
+Languages             │ Python 3.11 · SQL
+Deployment & MLOps    │ GitHub Actions · Gunicorn · FastAPI · Uvicorn · Azure CI/CD
+Frontend              │ Streamlit · HTML5 · FastAPI · Mobile-responsive UI
+Compliance            │ HIPAA · GDPR · GxP · NIST · EU AI Act · 21 CFR Part 11
+Domains               │ Life Sciences · Oncology · Rheumatology · Clinical Trials · Pharma
+Program Management    │ PMP Certified · AI Strategy · Stakeholder Management · PMO
 ```
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 **PMP** — Project Management Professional
-- 🤖 **Generative AI** — [Certification in GenAI]
-- 🔗 **Agentic AI** — [Certification in Agentic AI Systems]
-- ☁️ **LLM Ops & Observability** — Production AI monitoring & evaluation
+| Certification | Issuer |
+|---|---|
+| 🏅 PMP — Project Management Professional | PMI |
+| ☁️ Microsoft Azure AI Fundamentals | Microsoft |
+| 🤖 Microsoft AI Transformation Leader | Microsoft |
+| 🧠 Advanced Generative & Agentic AI | Industry |
+| 📊 Six Sigma Green Belt | Industry |
 
 ---
 
 ## 🌟 Why I'm Different
 
-Most AI engineers lack domain depth. Most Life Sciences leaders can't build AI systems. I do both.
+Most AI engineers lack healthcare domain depth. Most Life Sciences leaders can't build AI systems. **I do both.**
 
-- ✅ **14 years** managing complex programs in regulated Life Sciences environments
-- ✅ **Hands-on** experience building multiple end-to-end AI systems
-- ✅ **Production deployments** — not just prototypes
-- ✅ **Compliance-first AI** — HIPAA, GDPR, NIST, GS1, EPCIS
-- ✅ **End-to-end ownership** — from strategy to deployment to LLM Ops
+```
+✅ 14+ years steering $250M+ regulatory compliance programs in pharma across EU & emerging markets
+✅ Production Azure-native RAG and multi-agent AI systems — live, deployed, tested
+✅ Compliance-first AI architecture — HIPAA, GDPR, GxP, EU AI Act built in from day one
+✅ Full-stack ownership — from business case and architecture to deployment and LLM Ops
+✅ Deep pharma domain — oncology, rheumatology, regulatory affairs, clinical trials, biosimilars
+✅ Enterprise cloud — Azure OpenAI, Azure AI Search, Azure AI Foundry, GitHub Actions CI/CD
+```
+
+---
+
+## 🔗 Live Deployments
+
+| Project | Platform | URL |
+|---|---|---|
+| Rituximab Assistant (Phase 2) | Azure App Service | [rituximab-rag-fmgvg6aravebatbz.centralindia-01.azurewebsites.net](https://rituximab-rag-fmgvg6aravebatbz.centralindia-01.azurewebsites.net) |
+| Rituximab Assistant (Phase 1) | Render.com | [rituximab-rag-assistant.onrender.com](https://rituximab-rag-assistant.onrender.com) |
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/programdirectorai)
-- 📧 raj.doms@gmail.com
-- 📍 Hyderabad, India · Open to remote & global contracts
+<p align="center">
+  <a href="https://www.linkedin.com/in/programdirectorai">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rajucanon@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-rajucanon%40yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20To-Full%20Time%20%7C%20Contract%20%7C%20Global-brightgreen?style=for-the-badge"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Domain-Life%20Sciences-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Azure--Native%20AI-Production%20Deployed-0078D4?style=flat-square&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/Domain-Life%20Sciences%20%7C%20Pharma-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/Experience-14%2B%20Years-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI%20Systems-Production%20Grade-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG%20%7C%20Multi--Agent%20%7C%20LLM%20Ops-Production%20Grade-blueviolet?style=flat-square"/>
+</p>
+
+<p align="center">
+  <i>Building AI systems that actually work in regulated healthcare environments — from architecture to production.</i>
 </p>
