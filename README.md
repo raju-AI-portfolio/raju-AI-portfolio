@@ -231,7 +231,7 @@ Most AI engineers lack healthcare domain depth. Most Life Sciences leaders can't
 
 ---
 
-## 🔗 Live Deployments
+## 🔗 Live Deployments on Azure and Render 
 
 | Project | Platform | URL |
 |---|---|---|
