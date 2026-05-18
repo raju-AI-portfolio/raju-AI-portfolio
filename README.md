@@ -237,6 +237,7 @@ Most AI engineers lack healthcare domain depth. Most Life Sciences leaders can't
 |---|---|---|
 | Rituximab Assistant (Phase 2) | Azure App Service | [rituximab-rag-fmgvg6aravebatbz.centralindia-01.azurewebsites.net](https://rituximab-rag-fmgvg6aravebatbz.centralindia-01.azurewebsites.net) |
 | Rituximab Assistant (Phase 1) | Render.com | [rituximab-rag-assistant.onrender.com](https://rituximab-rag-assistant.onrender.com) |
+| Multi-Agent AI Customer Support System | Streamlit/Azure App Service | [https://customer-support-agent-h9akbjhbfna4amg5.centralindia-01.azurewebsites.net) |
 
 ---
 
