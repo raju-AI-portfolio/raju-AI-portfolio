@@ -98,7 +98,7 @@ The platform combines Retrieval-Augmented Generation (RAG), semantic search, con
 - Supports auditable decision-making in regulated environments
 - Demonstrates enterprise AI governance and human oversight patterns
 
-`RAG` `Pinecone` `FastAPI` `OpenAI` `Cohere``Airtable` `n8n` `Streamlit` `GDPR` `HIPAA` `NIST` `Langfuse` `RAGAS`
+`RAG` `Pinecone` `FastAPI` `OpenAI` `Cohere` `Airtable` `n8n` `Streamlit` `GDPR` `HIPAA` `NIST` `Langfuse` `RAGAS`
 
 ---
 
