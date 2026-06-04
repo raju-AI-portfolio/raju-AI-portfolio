@@ -74,16 +74,31 @@ Azure-native RAG system delivering 24/7 source-verified Rituximab therapy inform
 
 #### 🛡️ [`Regulatory Compliance Intelligence Copilot`](https://github.com/raju-AI-portfolio/Regulatory-Compliance-Intelligence-Copilot-with-Human-Review-.git) &nbsp; ⭐
 
-> **AI-powered RAG advisory system** for healthcare regulatory compliance — HIPAA · GDPR · NIST SP 800-53
+> **AI-Powered Compliance Advisory Platform** | RAG • Human-in-the-Loop • AI Governance
 
-End-to-end compliance advisory system using RAG, Python, Streamlit, Pinecone, and n8n — enabling structured GDPR/HIPAA/NIST compliance query resolution with confidence scoring and human-in-the-loop approval workflows via Telegram and Airtable. Directly replicates the advisory output a strategy consultant would deliver to a payer or provider client.
+Designed and implemented an enterprise-grade Regulatory Compliance Intelligence Copilot that provides citation-backed compliance guidance across GDPR, HIPAA, and NIST SP 800-53 frameworks.
+The platform combines Retrieval-Augmented Generation (RAG), semantic search, confidence scoring, and human review workflows to deliver trustworthy, auditable, and regulator-ready responses for compliance and risk management teams.
+
+**Key Capabilities**
+- Multi-framework compliance intelligence (GDPR, HIPAA, NIST)
+- Retrieval-Augmented Generation (RAG) with grounded responses
+- Multi-query retrieval and semantic reranking
+- Confidence-based decision engine
+- Human-in-the-Loop review workflow
+- Audit trail and decision traceability
+- Regulatory citation normalization
+- Governance, risk and compliance (GRC) support
+- Enterprise AI governance controls
 
 **💼 Business Impact:**
-- Simulates consulting-grade compliance advisory for GDPR/HIPAA/NIST environments
-- Reduces manual compliance analysis effort with confidence-scored, citation-backed outputs
-- Human-in-the-loop design ensures regulated decision-making standards are maintained
+- Simulates consulting-grade compliance advisory workflows
+- Reduces manual regulatory research effort
+- Improves consistency of compliance interpretations
+- Provides traceable, citation-backed recommendations
+- Supports auditable decision-making in regulated environments
+- Demonstrates enterprise AI governance and human oversight patterns
 
-`RAG` `Pinecone` `n8n` `Streamlit` `GDPR` `HIPAA` `NIST` `Langfuse` `RAGAS`
+`RAG` `Pinecone` `FastAPI` `OpenAI` `Cohere``Airtable` `n8n` `Streamlit` `GDPR` `HIPAA` `NIST` `Langfuse` `RAGAS`
 
 ---
 
