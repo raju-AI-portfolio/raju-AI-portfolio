@@ -19,11 +19,11 @@ Healthcare AI Solutions Architect &nbsp;·&nbsp; GenAI & Agentic AI &nbsp;·&nbs
 
 ## 🧭 About Me
 
-Healthcare AI Solutions Architect with **14+ years** of deep pharmaceutical, biosimilar, and digital health expertise — hands-on builder of **production Azure-native RAG systems**, multi-agent GenAI pipelines, and enterprise AI solutions directly addressing pharma use cases.
+Enterprise & AI Solutions Architect with 18+ years of experience delivering digital transformation, regulatory compliance, and healthcare technology solutions across pharmaceutical, biosimilar, and life sciences organizations.
 
-I bridge two worlds that rarely meet: **enterprise healthcare strategy** (regulatory programs, go-to-market, $250M+ compliance mandates) and **hands-on AI engineering** (Azure OpenAI, Azure AI Search, LangGraph, FastAPI, CI/CD). The result is AI architecture that is both technically sound and commercially viable in regulated pharma environments.
+My expertise spans business architecture, solution architecture, data architecture, and AI platform design. I specialize in building enterprise-grade AI solutions that combine Azure, Generative AI, RAG, multi-agent systems, workflow automation, and governance frameworks to solve real-world challenges in regulated environments.
 
-**What I build ships to production** — not just Jupyter notebooks.
+I bridge the gap between business strategy and technology execution—translating complex regulatory, clinical, and operational requirements into scalable, secure, and business-aligned architectures.
 
 ---
 
