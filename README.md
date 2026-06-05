@@ -45,6 +45,57 @@ I bridge the gap between business strategy and technology execution—translatin
 ### 🟢 Production — Live on Azure & Cloud
 
 ---
+---
+
+### 🏥 PharmaSignal AI
+![Azure](https://img.shields.io/badge/Azure-Live-0078D4?logo=microsoft-azure&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-Live-412991?logo=openai&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Green-22C55E?logo=github-actions&logoColor=white)
+
+> **Enterprise multi-agent pharmacovigilance platform** — automated adverse event triage, ICH E2B narrative generation, and safety signal detection with human-in-the-loop governance
+
+Azure-native multi-agent AI system processing adverse event reports from FDA FAERS, call centers, and CRM systems — powered by Azure OpenAI GPT-4o, LangGraph state machine (5 specialist agents), ChromaDB RAG (13 regulatory document chunks), and GitHub Actions CI/CD. Reduces processing time from 30 minutes to 3 minutes per report with mandatory human approval gate and full 21 CFR Part 11 audit trail on every case.
+
+**AI Agent Pipeline:**
+
+| Agent | Function | Output |
+|-------|----------|--------|
+| Triage Agent | ICH E2B severity classification via GPT-4o · temp=0 | SERIOUS / NON-SERIOUS + reasoning |
+| Medical Agent | ChromaDB vector search · regulatory context retrieval | ICH · EMA · WHO citations |
+| Signal Agent | PRR · ROR · chi-square statistics · pure Python · WHO thresholds | signal_detected · case_count |
+| Narrative Agent | 7-section ICH E2B narrative · GPT-4o · structured output | Full regulatory narrative |
+| Escalation Agent | Weighted risk score 0–100 · severity 40% · signal 30% | AUTO-CLOSE · FLAG · ESCALATE |
+
+**Azure Stack:**
+
+| Component | Technology |
+|-----------|------------|
+| AI orchestration | LangGraph StateGraph · 5 specialist agents · parallel execution |
+| LLM | Azure OpenAI GPT-4o · Sweden Central · DefaultV2 content filter |
+| Embeddings | Azure OpenAI text-embedding-ada-002 · 1536 dimensions |
+| Vector store | ChromaDB (local) → Azure AI Search (production) · hybrid search |
+| Backend | FastAPI × 5 microservices · SQLAlchemy · PostgreSQL Flexible Server |
+| Frontend | React TypeScript · HITL review dashboard · audit trail view |
+| Infrastructure | Terraform IaC · 8 Azure resources · Azure Container Apps (PaaS) |
+| CI/CD | GitHub Actions · Trivy scan · Checkov IaC scan · GxP 2-person gate |
+| Orchestration | Kubernetes AKS manifests · HPA 2–10 replicas · namespace isolation |
+
+**💼 Business Impact:**
+
+- Reduces adverse event processing from **30 minutes → 3 minutes** per report — 10× faster
+- Cuts pharmacovigilance headcount from **22 FTEs → 4 FTEs** — 80% reduction — saving $1.4M–$2M/year
+- Enforces **ICH E2B 15-day reporting deadline** compliance — eliminates risk of FDA fines up to $100M
+- **Human-in-the-loop** enforced at architecture level — no automatic regulatory submission ever possible
+- Full **21 CFR Part 11** immutable audit trail — every agent decision and human action permanently logged
+- **PRR/ROR signal detection** runs on every report in real-time vs weekly manual Excel calculations
+
+`Azure OpenAI` `LangGraph` `RAG` `FastAPI` `React` `Terraform` `Kubernetes` `GitHub Actions` `Pharmacovigilance` `ICH E2B` `Multi-Agent AI`
+
+🔗 [View Repository](https://github.com/raju-AI-portfolio/pharmasignal-ai)
+
+---
+
+
 
 #### 🧬 [`Rituximab Patient Knowledge Assistant`](https://github.com/raju-AI-portfolio/rituximab-rag-assistant) &nbsp; ![Azure](https://img.shields.io/badge/Azure-Live-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-Live-28a745?style=flat-square)
 
