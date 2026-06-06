@@ -45,9 +45,8 @@ I bridge the gap between business strategy and technology execution—translatin
 ### 🟢 Production — Live on Azure & Cloud
 
 ---
----
 
-### 🏥 PharmaSignal AI
+### 🏥 PharmaSignal AI (Multi-Agent AI Pharmacovigilance Platform)
 ![Azure](https://img.shields.io/badge/Azure-Live-0078D4?logo=microsoft-azure&logoColor=white)
 ![GPT-4o](https://img.shields.io/badge/GPT--4o-Live-412991?logo=openai&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Green-22C55E?logo=github-actions&logoColor=white)
