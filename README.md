@@ -96,7 +96,7 @@ Azure-native multi-agent AI system processing adverse event reports from FDA FAE
 
 
 
-#### 🧬 [`Rituximab Patient Knowledge Assistant`](https://github.com/raju-AI-portfolio/rituximab-rag-assistant) &nbsp; ![Azure](https://rituximab-rag-fmgvg6aravebatbz.centralindia-01.azurewebsites.net/) ![Render](https://img.shields.io/badge/Render-Live-28a745?style=flat-square)
+#### 🧬 [`Rituximab Patient Knowledge Assistant`](https://github.com/raju-AI-portfolio/rituximab-rag-assistant)
 
 > **Fully Azure-native RAG clinical knowledge assistant** for Rituximab therapy — deployed on Microsoft Azure enterprise cloud
 
