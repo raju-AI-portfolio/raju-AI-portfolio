@@ -118,6 +118,8 @@ Azure-native RAG system delivering 24/7 source-verified Rituximab therapy inform
 - Mitigates misinformation risk — every answer grounded in FDA/NIH/NCCN sources, never AI memory
 - Enterprise-grade compliance posture — HIPAA/GDPR-aligned Azure infrastructure
 
+**Rituximab Patient Assistant Live on Azure:** https://rituximab-rag-fmgvg6aravebatbz.centralindia-01.azurewebsites.net/
+
 `Azure OpenAI` `Azure AI Search` `FastAPI` `GitHub Actions` `Python 3.11` `RAG` `Healthcare AI`
 
 ---
