@@ -178,8 +178,8 @@ Azure-native multi-agent system delivering instant automated customer support ac
 - Scales to thousands of concurrent queries at near-zero marginal cost
 - Guardrail pipeline blocks **100%** of harmful and off-topic queries in testing
 
-**AssistIQ live on Render URL:** https://customer-support-agent-assist.streamlit.app/
-**AssistIQ Live on Azure:** https://customer-support-agent-h9akbjhbfna4amg5.centralindia-01.azurewebsites.net
+- **AssistIQ live on Render URL:** https://customer-support-agent-assist.streamlit.app/
+- **AssistIQ Live on Azure:** https://customer-support-agent-h9akbjhbfna4amg5.centralindia-01.azurewebsites.net
 
 ---
 #### 🤖 [`Production Multi-Agent AI System`](https://github.com/raju-AI-portfolio/Multi-Agent-AI-System)
