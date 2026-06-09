@@ -153,6 +153,7 @@ The platform combines Retrieval-Augmented Generation (RAG), semantic search, con
 `RAG` `Pinecone` `FastAPI` `OpenAI` `Cohere` `Airtable` `n8n` `Streamlit` `GDPR` `HIPAA` `NIST` `Langfuse` `RAGAS`
 
 ---
+
 ## 🛍️ AssistIQ — Multi-Agent AI Customer Support System
 
 **Production-ready multi-agent AI customer support system** for e-commerce — deployed on Microsoft Azure enterprise cloud
@@ -177,6 +178,7 @@ Azure-native multi-agent system delivering instant automated customer support ac
 - Scales to thousands of concurrent queries at near-zero marginal cost
 - Guardrail pipeline blocks **100%** of harmful and off-topic queries in testing
 
+**AssistIQ live on Render URL:** https://customer-support-agent-assist.streamlit.app/
 **AssistIQ Live on Azure:** https://customer-support-agent-h9akbjhbfna4amg5.centralindia-01.azurewebsites.net
 
 ---
