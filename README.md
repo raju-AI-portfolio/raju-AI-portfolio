@@ -47,9 +47,6 @@ I bridge the gap between business strategy and technology execution—translatin
 ---
 
 #### 🧬 [`🏥 PharmaSignal AI (Multi-Agent AI Pharmacovigilance Platform)`](https://github.com/raju-AI-portfolio/pharmasignal-ai)
-![Azure](https://img.shields.io/badge/Azure-Live-0078D4?logo=microsoft-azure&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-Live-412991?logo=openai&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Green-22C55E?logo=github-actions&logoColor=white)
 
 > **Enterprise multi-agent pharmacovigilance platform** — automated adverse event triage, ICH E2B narrative generation, and safety signal detection with human-in-the-loop governance
 
@@ -93,7 +90,6 @@ Azure-native multi-agent AI system processing adverse event reports from FDA FAE
 🔗 [View Repository](https://github.com/raju-AI-portfolio/pharmasignal-ai)
 
 ---
-
 
 
 #### 🧬 [`Rituximab Patient Knowledge Assistant`](https://github.com/raju-AI-portfolio/rituximab-rag-assistant)
@@ -154,9 +150,9 @@ The platform combines Retrieval-Augmented Generation (RAG), semantic search, con
 
 ---
 
-## 🛍️ AssistIQ — Multi-Agent AI Customer Support System
+#### 🛍️ [`AssistIQ — Multi-Agent AI Customer Support System`](https://github.com/raju-AI-portfolio/customer-support-agent) &nbsp; ⭐
 
-**Production-ready multi-agent AI customer support system** for e-commerce — deployed on Microsoft Azure enterprise cloud
+> **Production-ready multi-agent AI customer support system** for e-commerce — deployed on Microsoft Azure enterprise cloud
 
 Azure-native multi-agent system delivering instant automated customer support across product recommendations, order tracking, store policies, and complaint resolution — powered by **Azure OpenAI GPT-4o**, **Azure AI Search** (40 products, hybrid search), and **GitHub Actions CI/CD**. Three-stage guardrail pipeline (safety → relevance → output sanitisation) ensures every response is safe, accurate, and on-topic.
 
