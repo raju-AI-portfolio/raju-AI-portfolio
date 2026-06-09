@@ -153,7 +153,33 @@ The platform combines Retrieval-Augmented Generation (RAG), semantic search, con
 `RAG` `Pinecone` `FastAPI` `OpenAI` `Cohere` `Airtable` `n8n` `Streamlit` `GDPR` `HIPAA` `NIST` `Langfuse` `RAGAS`
 
 ---
+## 🛍️ AssistIQ — Multi-Agent AI Customer Support System
 
+**Production-ready multi-agent AI customer support system** for e-commerce — deployed on Microsoft Azure enterprise cloud
+
+Azure-native multi-agent system delivering instant automated customer support across product recommendations, order tracking, store policies, and complaint resolution — powered by **Azure OpenAI GPT-4o**, **Azure AI Search** (40 products, hybrid search), and **GitHub Actions CI/CD**. Three-stage guardrail pipeline (safety → relevance → output sanitisation) ensures every response is safe, accurate, and on-topic.
+
+### ⚙️ Azure Stack
+
+| Component | Technology |
+|-----------|-----------|
+| Hosting | Azure App Service · Central India · Python 3.11 |
+| LLM | Azure OpenAI GPT-4o · Sweden Central |
+| Search | Azure AI Search · hybrid search · 40 products · 8 categories |
+| Observability | Langfuse · traces every LLM call with latency and cost |
+| CI/CD | GitHub Actions · auto-deploy on push to main |
+| Web server | Gunicorn + UvicornWorker |
+
+### 💼 Business Impact
+
+- Automates **40%+** of inbound support tickets — reducing cost per ticket from **$20 to $0.02**
+- Delivers **sub-5 second** responses — 99% faster than human agents
+- Scales to thousands of concurrent queries at near-zero marginal cost
+- Guardrail pipeline blocks **100%** of harmful and off-topic queries in testing
+
+**AssistIQ Live on Azure:** https://customer-support-agent-h9akbjhbfna4amg5.centralindia-01.azurewebsites.net
+
+---
 #### 🤖 [`Production Multi-Agent AI System`](https://github.com/raju-AI-portfolio/Multi-Agent-AI-System)
 
 > **Production-ready multi-agent AI system** with 4 specialised agents, 3-stage guardrail pipeline, and Azure OpenAI GPT-4o
@@ -200,48 +226,6 @@ Lightweight, domain-adapted LLM for clinical question answering. Showcases fine-
 
 ### 🟡 Agentic AI & Workflow Automation
 
----
-## 🛍️ AssistIQ — Multi-Agent AI Customer Support System
-
-**Production-ready multi-agent AI customer support system** for e-commerce — deployed on Microsoft Azure enterprise cloud
-
-Azure-native multi-agent system delivering instant automated customer support across product recommendations, order tracking, store policies, and complaint resolution — powered by **Azure OpenAI GPT-4o**, **Azure AI Search** (40 products, hybrid search), and **GitHub Actions CI/CD**. Three-stage guardrail pipeline (safety → relevance → output sanitisation) ensures every response is safe, accurate, and on-topic.
-
-### ⚙️ Azure Stack
-
-| Component | Technology |
-|-----------|-----------|
-| Hosting | Azure App Service · Central India · Python 3.11 |
-| LLM | Azure OpenAI GPT-4o · Sweden Central |
-| Search | Azure AI Search · hybrid search · 40 products · 8 categories |
-| Observability | Langfuse · traces every LLM call with latency and cost |
-| CI/CD | GitHub Actions · auto-deploy on push to main |
-| Web server | Gunicorn + UvicornWorker |
-
-### 💼 Business Impact
-
-- Automates **40%+** of inbound support tickets — reducing cost per ticket from **$20 to $0.02**
-- Delivers **sub-5 second** responses — 99% faster than human agents
-- Scales to thousands of concurrent queries at near-zero marginal cost
-- Guardrail pipeline blocks **100%** of harmful and off-topic queries in testing
-
-**AssistIQ Live on Azure:** https://customer-support-agent-h9akbjhbfna4amg5.centralindia-01.azurewebsites.net
-#### 🛒 [`🛍️ AssistIQ — Multi-Agent AI Customer Support System`](https://github.com/raju-AI-portfolio/customer-support-agent)
-
-> **Production-ready multi-agent AI customer support system** for e-commerce — deployed on Microsoft Azure enterprise cloud
-
-Azure-native multi-agent system delivering instant automated customer support across product recommendations, order tracking, store policies, and complaint resolution — powered by Azure OpenAI GPT-4o, Azure AI Search (40 products, hybrid search), and GitHub Actions CI/CD. Three-stage guardrail pipeline (safety → relevance → output sanitisation) ensures every response is safe, accurate, and on-topic.
-Azure Stack:
-ComponentTechnologyHostingAzure App Service · Central India · Python 3.11LLMAzure OpenAI GPT-4o · Sweden CentralSearchAzure AI Search · hybrid search · 40 products · 8 categoriesObservabilityLangfuse · traces every LLM call with latency and costCI/CDGitHub Actions · auto-deploy on push to mainWeb serverGunicorn + UvicornWorker
-💼 Business Impact:
-Automates 40%+ of inbound support tickets — reducing cost per ticket from $20 to $0.02
-Delivers sub-5 second responses — 99% faster than human agents
-Scales to thousands of concurrent queries at near-zero marginal cost
-Guardrail pipeline blocks 100% of harmful and off-topic queries in testing
-
-AssistIQ Live on Azure: https://customer-support-agent-h9akbjhbfna4amg5.centralindia-01.azurewebsites.net
-
-Copy this into your GitHub repo README.md at the top, right after the badges section. It will render perfectly on GitHub.Sonnet 4.6 Low
 ---
 
 #### ✈️ [`Airline Customer Support System`](https://github.com/raju-AI-portfolio/airline-customer-support-system)
